@@ -7,6 +7,7 @@ import org.springframework.context.annotation.PropertySource;
 @SpringBootApplication
 @PropertySource("classpath:/myconfig/myconfig.properties")
 public class SpringDemoApplication {
+	//xmÐÞ¸ÄÁË´úÂë
     public static void main(String[] args) {
         SpringApplication.run(SpringDemoApplication.class, args);
     }
