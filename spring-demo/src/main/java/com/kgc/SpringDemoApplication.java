@@ -11,6 +11,7 @@ public class SpringDemoApplication {
 	//xmÐÞ¸ÄÁË´úÂë
 	//李四修改了代码
     //xm_dev2修改了代码
+	//模拟这是李四李四提交并被合并的代码
     public static void main(String[] args) {
         SpringApplication.run(SpringDemoApplication.class, args);
     }
